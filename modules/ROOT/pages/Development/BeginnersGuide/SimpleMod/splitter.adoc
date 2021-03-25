@@ -4,4 +4,4 @@ Community member Rusketh has made a series of video tutorials on creating a cust
 
 **As of SML 3.0.0, these tutorials are partially out of date, but many of the concepts will still carry over.**
 
-This tutorial has not yet been transcribed to text. If this is something you'd to see, please voice your interest on the discord.
+This tutorial has not yet been transcribed to text. If this is something you'd like to see, please voice your interest on the discord.
